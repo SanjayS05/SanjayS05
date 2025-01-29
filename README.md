@@ -1,15 +1,16 @@
 <h2 align="left">Hi 👋! My name is Sanjay and I'm a Fullstack developer</h2>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FtaDY3eDVwdmh4MjgwYWg3N3JucWFsNDB6NnBkMjUzdXNvMDlvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
-
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjays05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjays05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+  <img align="center" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FtaDY3eDVwdmh4MjgwYWg3N3JucWFsNDB6NnBkMjUzdXNvMDlvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanjaysankar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjays05/) 
 
